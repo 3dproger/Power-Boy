@@ -8,7 +8,8 @@
 Score as many points as possible by destroying enemies
 
 # Control
-* WASD - moving
+* WASD - Moving
+* Left Mouse Button - Shot
 * 1 - Pistol
 * 2 - Shotgun
 * 3 - Automatic Gun
